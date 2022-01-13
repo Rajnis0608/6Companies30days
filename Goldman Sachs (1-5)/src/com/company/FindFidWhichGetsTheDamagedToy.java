@@ -1,3 +1,5 @@
+package com.company;
+
 public class FindFidWhichGetsTheDamagedToy {
 
     static int solution(int N,int M,int K){
